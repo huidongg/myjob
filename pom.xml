@@ -89,7 +89,7 @@
 		</plugins>
 	</build>
 	<modules>
-		<module>job-web</module>
+		<module>myjob-web</module>
 		<module>myjob-alarm</module>
 		<module>myjob-core</module>
 	</modules>
